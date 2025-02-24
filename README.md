@@ -42,7 +42,7 @@ This tool is for **whatever purposes** and make sure your bot token stays safe. 
 
 Now go have some fun pwning!
 
-![Static Badge](https://img.shields.io/badge/dm_for_queries-dont_be_skid-lol?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&color=blue&link=https://t.me://@hello_elliot_bot)
+[![Telegram](https://badgen.net/badge/icon/Don't%20be%20an%20skid!?icon=telegram&label=DM%20for%20Queries)](https://t.me://hello_elliot_bot)
 ----------
 
 #### LICENSE
