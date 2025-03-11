@@ -36,6 +36,14 @@ Forget complicated setups. **Et-sHell** gives you a **fully functional reverse s
     
 5.  **Start commanding your Target Machine via Telegram.**
 
+## 🔜 TODO:
+
+- [ ] Grab the Telegram Bot TOKEN from a remote source securely every time the program executes
+- [ ] Implement local enumeration for privilege escalation
+- [ ] Retrieve plaintext details and browser session tokens
+- [ ] Apply obfuscation techniques
+
+
 ## ⚠️ Disclaimer
 
 This tool is for **whatever purposes** and make sure your bot token stays safe. If you use it for anything shady, that's on you. Don’t be dumb.
