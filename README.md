@@ -14,10 +14,10 @@ Forget complicated setups. **Et-sHell** gives you a **fully functional reverse s
 ## 🛠️ Setup in 60 Seconds
 
 1.  **Create a Telegram bot** via [@BotFather](https://t.me/BotFather).
-2.  **Clone this repo on your Target Machine/ wget [`etshell.py`](https://raw.githubusercontent.com/getmydropper/Et-Shell/refs/heads/main/etshell.py)** :
+2.  **Clone this repo on your Target Machine/ wget [`etshell.py`](https://raw.githubusercontent.com/0xdotgz/Et-Shell/refs/heads/main/etshell.py)** :
     
     ```
-    git clone https://github.com/getmydropper/Et-Shell   
+    git clone https://github.com/0xdotgz/Et-Shell   
     ```
     
 3.  **Install dependencies**:
